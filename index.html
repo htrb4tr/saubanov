@@ -222,7 +222,31 @@ a:hover #img4, a:focus #img4  {
 
 <form accept-charset="UTF-8" action="action_page.php" autocomplete="off" method="GET" target="_blank"><fieldset><legend>Title:</legend>Имя<br /> <input name="name" type="text" value="Фрэнк" /> <br /> <textarea cols="30" rows="2">Информация о себе.</textarea><br /> <input name="democheckbox" type="checkbox" value="1" /> Checkbox<br /> <button type="submit" value="Submit">Submit</button></fieldset></form>
 <button type="cansel" value="cancel">cansel</button></fieldset></form>
-	
+
+<h1 class="my-element">
+Текст с тенью
+</h1>	
+	.my-element {
+  text-shadow: 1px 1px 0px white,
+    2px 2px 0px firebrick;
+  color: darkslategray;
+}
+​
+body {
+  background: #f3f3f3;
+}
+​
+/* Presentational styles */
+.my-element {
+  --flow-space: 2rem;
+  font-size: 3em;
+  font-weight: 900;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+  line-height: 1.1;
+  max-width: 40ch;
+}
+​
 
 </body>
 
