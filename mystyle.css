@@ -113,3 +113,26 @@ a:hover #img3, a:focus #img3  {
 a:hover #img4, a:focus #img4  {
 	transform: scale(2.5) rotate(5deg);
 }
+
+<style>
+ .css-3d-text {
+    font-size: 70px;
+    color: #51c0e2;
+    font-family: Times New Roman;
+    text-shadow: 0px 0px 0 rgb(76,187,221),
+                 1px 1px 0 rgb(71,182,216),
+                 2px 2px 0 rgb(66,177,211),
+                 3px 3px 0 rgb(61,172,206),
+                 4px 4px 0 rgb(56,167,201),
+                 5px 5px 0 rgb(51,162,196),
+                 6px 6px 0 rgb(46,157,191),
+                 7px 7px 0 rgb(41,152,186),
+                 8px 8px 0 rgb(36,147,181),
+                 9px 9px 0 rgb(31,142,176),
+                 10px 10px  0 rgb(26,137,171),
+                 11px 11px 10px rgba(0,0,0,0.6),
+                 11px 11px 1px rgba(0,0,0,0.5),
+                 0px 0px 10px rgba(0,0,0,.2);
+ }
+
+</style>
