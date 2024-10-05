@@ -114,7 +114,7 @@ a:hover #img4, a:focus #img4  {
 	transform: scale(2.5) rotate(5deg);
 }
 
-<style>
+
  .css-3d-text {
     font-size: 70px;
     color: #51c0e2;
@@ -135,4 +135,4 @@ a:hover #img4, a:focus #img4  {
                  0px 0px 10px rgba(0,0,0,.2);
  }
 
-</style>
+
