@@ -1,3 +1,16 @@
+div.container {
+background-color: #ffffff;
+}
+div.container p {
+font-family: Times;
+font-style: italic;
+font-weight: bold;
+text-decoration: blink;
+text-transform: none;
+color: #e64c4c;
+background-color: #ffffff;
+}
+
 .my-element {
   text-shadow: 1px 1px 0px white,
     2px 2px 0px firebrick;
