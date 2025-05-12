@@ -151,3 +151,7 @@ a:hover #img4, a:focus #img4  {
     display: inline-block;
 }
 
+body {
+		background-image:url(strawberry.jpg)
+
+
